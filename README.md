@@ -10,3 +10,5 @@ Technologies used for this Project:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+<img width="2307" height="1562" alt="image" src="https://github.com/user-attachments/assets/f18613fc-2d4b-4b48-8000-d9350de6cd32" />
